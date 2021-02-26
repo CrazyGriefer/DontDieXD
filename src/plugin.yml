@@ -1,0 +1,13 @@
+name: DontDieXD
+version: 1.0
+author: CrazyGriefer
+main: me.crazygriefer.dontdiexd.Main
+description: What a life, what a meme.
+
+commands:
+   ddstart:
+      description: Start the plugin.
+   ddstop:
+      description: Stop the plugin
+   ddevent:
+      description: Select what happens when somebody takes damage.
