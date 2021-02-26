@@ -9,10 +9,14 @@ This is a very simple plugin for a YouTube Video. Every time you take damage, a 
 
 **/ddstop**: Stop the plugin.
 
+**/ddevent [mobspawn | nothing]**: Change the event (what happens when you take damage).
+
 ## Permissions
 **dontdiexd.start** - /ddstart
 
 **dontdiexd.stop** - /ddstop
+
+**dontdiexd.event** - /ddevent
 
 ## Disclaimer
 This plugin comes with no warranties! If you have bad luck it can spawn 4 withers in a row. It can destroy your world. I strongly recommend to NOT use this in your survival let's play or SMP!
